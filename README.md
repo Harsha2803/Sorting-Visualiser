@@ -1,4 +1,4 @@
-# SORTING-VISUALIZER
+# SORTING-VISUALISER
 
 Try it Live : https://harsha2803.github.io/Sorting-Visualiser/
 
